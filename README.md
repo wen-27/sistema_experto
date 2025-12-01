@@ -18,7 +18,7 @@ Características del camper perfecto:
 * Domina las competencias del programa.
 * Tiene notas altas en Inglés, SER, Software, Empleabilidad y Lógica.
 * Su aprendizaje es consistente y demuestra un desempeño integral.
-* Es el perfil ideal para continuar procesos avanzados o proyectos exigentes.
+* Es el perfil ideal para procesos avanzados o proyectos exigentes.
 
 ### 🟡 Camper Regular
 
@@ -30,7 +30,7 @@ Características del camper regular:
 * Tiene competencias aceptables, aunque con áreas por mejorar.
 * No está en un nivel bajo, pero tampoco sobresale de forma general.
 * Puede avanzar en el programa, pero se recomienda refuerzo académico.
-* Sus resultados muestran entendimiento, pero con inconsistencias.
+* Sus resultados muestran entendimiento, pero con ciertos fallos.
 
 ###  🔴 Camper Deficiente (o No perfecto)
 
@@ -83,7 +83,7 @@ En el sistema experto, esto sucede cuando **su score es menor a 70**.
 |-------|-------------|-----------|
 | 1 | Camper Perfecto | Score ≥ 80 |
 | 2 | Camper Regular | 70 ≤ Score < 80 |
-| 0 | Deficiente / No perfecto | Score < 70 |
+| 0 |  No perfecto | Score < 70 |
 
 ---
 
@@ -106,7 +106,6 @@ En el sistema experto, esto sucede cuando **su score es menor a 70**.
 | 13 | 65 | 70 | 75 | 68 | 72 | 69.5 | 0 |
 | 14 | 91 | 88 | 90 | 85 | 89 | 89.9 | 1 |
 
----
 
 
 
